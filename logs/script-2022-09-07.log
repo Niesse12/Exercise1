@@ -1,0 +1,36 @@
+Script started on 2022-09-07 16:09:44-0700
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository[00m$ mkdir loig[K[Kgs
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository[00m$ nm[K[Kmkdir src
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository[00m$ cd websplaining[K[K[K[K[K[K[K[K[K[K[K[Klogs
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/logs[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/logs[00m$ ls
+[0m[01;32mNotes.txt[0m
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/logs[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/logs[00m$ cd src
+bash: cd: src: No such file or directory
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/logs[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/logs[00m$ cw
+
+Command 'cw' not found, but can be installed with:
+
+sudo apt install cw
+
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/logs[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/logs[00m$ g++ --version
+g++ (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+Copyright (C) 2017 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/logs[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/logs[00m$ /m[K[Kcd /mnt/c [K/Users/nesse/Desktop/REposi[K[K[K[K[Kepository
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository[00m$ git init
+Initialized empty Git repository in /mnt/c/Users/nesse/Desktop/Repository/.git/
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository[00m$ cd /mnt/c/US[Ksers/nesse/Desktop/Repository/srr[Kc
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/src[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/src[00m$ touch cpp
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/src[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/src[00m$ touch hello.cpp
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/src[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/src[00m$ g++ hello.cpp
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/src[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/src[00m$ ./a.out
+Hello world!
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/src[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/src[00m$ g++ hello.cpp -0 out[K[K[K[K[Ko output
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/src[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/src[00m$ ./output
+Hello world!
+]0;nesse@DESKTOP-KHL3DTG: /mnt/c/Users/nesse/Desktop/Repository/src[01;32mnesse@DESKTOP-KHL3DTG[00m:[01;34m/mnt/c/Users/nesse/Desktop/Repository/src[00m$ exit
+exit
+
+Script done on 2022-09-07 16:23:25-0700

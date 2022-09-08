@@ -1,0 +1,5 @@
+1.terminal-command prompt
+2.git bash
+3. WSL, Ubuntu version 18.04 LTS
+4.GNU Make, https://sourceforge.net/projects/gnuwin32/files/make/3.81/make-3.81.exe/download?use_mirror=cytranet&download=
+5.Notepad
